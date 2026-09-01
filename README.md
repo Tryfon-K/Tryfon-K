@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tryfon-K
-- 🌱 I’m currently learning PlayWright automation framework and I would like to showcase my progress here :)
+-  Hi, I’m @Tryfon-K
+- This is just a simple Playwright and automation concept experimentation.
 
 
 <!---
