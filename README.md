@@ -1,5 +1,5 @@
 -  Hi, I’m @Tryfon-K
-- This is just a simple Playwright and automation concept experimentation.
+- This is just some simple Playwright and automation concept experimentation.
 
 
 <!---
